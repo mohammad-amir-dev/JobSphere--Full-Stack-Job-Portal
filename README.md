@@ -1,46 +1,175 @@
-# Getting Started with Create React App
+🚀 JobSphere – Job Portal Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+JobSphere is a modern, full-stack Job Portal Web Application designed to connect job seekers with employers efficiently. The platform provides secure authentication, advanced job search, application tracking, employer job management, and a smooth user experience with responsive UI and animations.
 
-## Available Scripts
+🛠️ Tech Stack
+Frontend
 
-In the project directory, you can run:
+React
 
-### `npm start`
+Redux
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Tailwind CSS
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Mantine UI
 
-### `npm test`
+Tabler Icons
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Backend
 
-### `npm run build`
+Spring Boot
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+MongoDB
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Security & Utilities
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+JSON Web Token (JWT) Authentication
 
-### `npm run eject`
+Email OTP Verification
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Role-Based Protected Routes
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+✨ Key Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+🔐 Secure Authentication with JWT
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+📧 OTP Verification via Email
 
-## Learn More
+🔔 Notification System
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+🧑‍💼 Role-based Access (User / Employer)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+📱 Fully Responsive Design
+
+🎨 Smooth UI Animations
+
+👤 User Features
+1. User Registration & Authentication
+
+Register using Email & Password
+
+Social Login with Google & LinkedIn
+
+Secure Login & Logout
+
+Forgot Password & Change Password functionality
+
+2. User Profile Management
+
+Create and update personal profile
+
+Upload profile picture
+
+Resume upload (PDF / DOC)
+
+Update or delete resume
+
+Add skills, certifications, and work experience
+
+3. Job Search & Applications
+
+Search jobs by keyword, location, and category
+
+Filter jobs by:
+
+Company
+
+Experience level
+
+Salary range
+
+Job type (Full-time / Part-time / Contract)
+
+View detailed job descriptions
+
+Apply for jobs with resume & cover letter
+
+Track application status
+
+4. User Dashboard
+
+View saved jobs
+
+Track applied jobs
+
+Get recommended jobs
+
+Monitor recent activity
+
+🏢 Employer Features
+Job Management
+
+Create, update, and delete job postings
+
+Set job visibility (Public / Private)
+
+Applicant Management
+
+View job applicants
+
+Manage applications
+
+Contact candidates directly through the portal
+
+🔔 Notifications & Alerts
+
+Email alerts for new job postings
+
+Application status updates via email
+
+⭐ Additional Features
+
+Save jobs for later
+
+Company profiles with detailed information
+
+View company job listings
+
+🎨 UI Theme & Design
+Dark Theme
+
+App Background: #2D2D2D
+
+Font Family: Poppins
+
+Button Color
+
+Primary Button: #FFD149
+
+UI Highlights
+
+Modern dark mode design
+
+Clean layout with Mantine components
+
+Smooth transitions and animations
+
+📄 Pages Included
+
+Landing Page
+
+Find Job Page
+
+User Dashboard
+
+Employer Dashboard
+
+Authentication Pages
+
+📌 Project Status
+
+✅ Core features implemented
+🚧 Enhancements and scalability improvements ongoing
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+📬 Contact
+
+If you have any feedback or suggestions, feel free to connect.
+
+⭐ If you like this project, don’t forget to star the repository
+
+
+
